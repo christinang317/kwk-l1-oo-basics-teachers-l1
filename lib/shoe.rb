@@ -13,7 +13,7 @@ class Shoe
   end
 
   def cobble(condition)
-    :condition => "new"
+    @condition = "new"
   end
 
 end
