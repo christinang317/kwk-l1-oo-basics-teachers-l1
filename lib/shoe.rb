@@ -12,7 +12,7 @@ class Shoe
     @brand
   end
 
-  def cobble
+  def cobble(condition)
     :condition => "new"
   end
 
